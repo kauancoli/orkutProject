@@ -12,63 +12,63 @@ export const Friends = () => {
           <div className="text-center cursor-pointer">
             <img
               className="h-14 w-14 object-cover rounded-full"
-              src="kayan.jfif"
+              src="avatar (1).png"
             />
-            <span className="block py-1">Kauan</span>
+            <span className="block py-1">Melissa</span>
           </div>
           <div className="text-center cursor-pointer ">
             <img
               className="h-14 w-14 object-cover rounded-full"
-              src="kayan.jfif"
+              src="avatar (2).png"
             />
-            <span className="block py-1">Jorge</span>
+            <span className="block py-1">Luiza</span>
           </div>
           <div className="text-center cursor-pointer">
             <img
               className="h-14 w-14 object-cover rounded-full"
-              src="kayan.jfif"
+              src="avatar (3).png"
             />
-            <span className="block py-1">Matheus</span>
+            <span className="block py-1">Nicolle</span>
           </div>
           <div className="text-center cursor-pointer">
             <img
               className="h-14 w-14 object-cover rounded-full"
-              src="kayan.jfif"
+              src="avatar (4).png"
             />
             <span className="block py-1">Messias</span>
           </div>
           <div className="text-center cursor-pointer">
             <img
               className="h-14 w-14 object-cover rounded-full"
-              src="kayan.jfif"
+              src="avatar (5).png"
             />
             <span className="block py-1">Helio</span>
           </div>
           <div className="text-center cursor-pointer">
             <img
               className="h-14 w-14 object-cover rounded-full"
-              src="kayan.jfif"
+              src="avatar (6).png"
             />
             <span className="block py-1">Lucas</span>
           </div>
           <div className="text-center cursor-pointer">
             <img
               className="h-14 w-14 object-cover rounded-full"
-              src="kayan.jfif"
+              src="avatar (7).png"
             />
-            <span className="block py-1">Hugo</span>
+            <span className="block py-1">Valentina</span>
           </div>
           <div className="text-center cursor-pointer">
             <img
               className="h-14 w-14 object-cover rounded-full"
-              src="kayan.jfif"
+              src="avatar (8).png"
             />
             <span className="block py-1">Fernando</span>
           </div>
           <div className="text-center cursor-pointer">
             <img
               className="h-14 w-14 object-cover rounded-full"
-              src="kayan.jfif"
+              src="avatar (9).png"
             />
             <span className="block py-1">Geovani</span>
           </div>
